@@ -2,7 +2,7 @@
 
 ## Стэк:
 - React
+- TypeScript
 - MobX
 
-### Ссылка на решение
-https://ggermashev.github.io/wiki_searcher/
+### https://ggermashev.github.io/wiki_searcher/
